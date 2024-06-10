@@ -1,0 +1,24 @@
+.Meucla-logo {
+  
+    height:25%;
+    width:25%;
+    
+   
+  }
+
+  .Background{
+    background-color: #143428;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .Login-logo {
+    height: 40vmin;
+    pointer-events: none;
+    size: 20pc;
+    margin-bottom: 1pc;
+  }
